@@ -52,6 +52,7 @@ var accordion = (function (element) {
     }
 
   }
-  })();
+  }();
 
-accordion.('#accordion');
+var accordion1 = accordion();
+    accordion1.init('#accordion');
