@@ -1,1 +1,1 @@
-# accordion-hard
+# Hard decision for accordion
