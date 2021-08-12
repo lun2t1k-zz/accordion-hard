@@ -57,3 +57,6 @@ var accordion = (function (element) {
 
     var accordion1 = accordion();
     accordion1.init('#accordion');
+
+    var accordion2 = accordion();
+    accordion2.init('#accordion2');
