@@ -54,4 +54,5 @@ return function () {
 }
 })();
 
-accordion.init('#accordion');
+var accordion1 = accordion();
+    accordion1.init('#accordion');
